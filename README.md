@@ -1,5 +1,5 @@
 # Calculator
-//this repo is created by Shatha Bandr
+#this repo is created by Shatha Bandr
 
 from tkinter import *
 
